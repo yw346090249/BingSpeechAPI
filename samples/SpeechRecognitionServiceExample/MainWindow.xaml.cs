@@ -146,7 +146,7 @@ namespace Microsoft.CognitiveServices.SpeechRecognition
         {
             get
             {
-                return this.subscriptionKey;
+                return "249c9536418447238a00f913807fc623";
             }
 
             set
